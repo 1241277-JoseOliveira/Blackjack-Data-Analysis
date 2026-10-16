@@ -1,1 +1,1 @@
-# Blackjack-Data-Analysis
+add José Oliveira to the project
